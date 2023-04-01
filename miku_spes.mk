@@ -33,6 +33,3 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage \
     $(LOCAL_PATH)/overlay-miku
-
-# Fingerprint
-BUILD_FINGERPRINT := "Redmi/spes/spes:12/SKQ1.211103.001/V13.0.6.0.SGKMIXM:user/release-keys"
