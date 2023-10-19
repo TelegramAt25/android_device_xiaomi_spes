@@ -112,7 +112,6 @@ drm.service.enabled=true
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
 # Graphics
-debug.sdm.support_writeback=0
 debug.renderengine.backend=skiaglthreaded
 debug.cpurend.vsync=false
 debug.sf.disable_backpressure=1
